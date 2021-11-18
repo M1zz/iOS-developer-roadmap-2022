@@ -1,0 +1,580 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "Label",
+                    "zOrder": "0",
+                    "measuredW": "377",
+                    "measuredH": "40",
+                    "x": "474",
+                    "y": "70",
+                    "properties": {
+                        "bold": "true",
+                        "size": "32",
+                        "text": "Mobile Developer in 2022"
+                    }
+                },
+                {
+                    "ID": "1",
+                    "typeID": "Arrow",
+                    "zOrder": "1",
+                    "w": "55",
+                    "h": "128",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "644",
+                    "y": "230",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "1",
+                        "direction": "top",
+                        "leftArrow": "false",
+                        "p0": {
+                            "length": 0,
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "length": 0.5202613499660683,
+                            "x": 0.4809160305343512,
+                            "y": 0.198473282442748
+                        },
+                        "p2": {
+                            "length": 136.12494260788506,
+                            "x": 49,
+                            "y": 127
+                        },
+                        "shape": "bezier"
+                    }
+                },
+                {
+                    "ID": "2",
+                    "typeID": "Arrow",
+                    "zOrder": "2",
+                    "w": "132",
+                    "h": "130",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "479",
+                    "y": "229",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "length": 131,
+                            "x": 131,
+                            "y": 0
+                        },
+                        "p1": {
+                            "length": 0.6087375480965977,
+                            "x": 0.5684088130944218,
+                            "y": -0.21788259145523384
+                        },
+                        "p2": {
+                            "length": 129.00387591076478,
+                            "x": 1,
+                            "y": 129
+                        },
+                        "shape": "bezier"
+                    }
+                },
+                {
+                    "ID": "3",
+                    "typeID": "TextInput",
+                    "zOrder": "3",
+                    "w": "132",
+                    "measuredW": "77",
+                    "measuredH": "32",
+                    "x": "402",
+                    "y": "367",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "Android"
+                    }
+                },
+                {
+                    "ID": "4",
+                    "typeID": "Label",
+                    "zOrder": "4",
+                    "measuredW": "160",
+                    "measuredH": "28",
+                    "x": "550",
+                    "y": "189",
+                    "properties": {
+                        "bold": "true",
+                        "size": "20",
+                        "text": "Choose your path"
+                    }
+                },
+                {
+                    "ID": "5",
+                    "typeID": "TextInput",
+                    "zOrder": "5",
+                    "w": "258",
+                    "measuredW": "176",
+                    "measuredH": "32",
+                    "x": "78",
+                    "y": "161",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "Git - Version Control"
+                    }
+                },
+                {
+                    "ID": "6",
+                    "typeID": "TextInput",
+                    "zOrder": "6",
+                    "w": "259",
+                    "measuredW": "49",
+                    "measuredH": "32",
+                    "x": "78",
+                    "y": "198",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "SSH"
+                    }
+                },
+                {
+                    "ID": "7",
+                    "typeID": "TextInput",
+                    "zOrder": "7",
+                    "w": "259",
+                    "measuredW": "201",
+                    "measuredH": "32",
+                    "x": "78",
+                    "y": "235",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "HTTP/HTTPs and APIs"
+                    }
+                },
+                {
+                    "ID": "8",
+                    "typeID": "Label",
+                    "zOrder": "8",
+                    "measuredW": "169",
+                    "measuredH": "25",
+                    "x": "78",
+                    "y": "45",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "Required for any path"
+                    }
+                },
+                {
+                    "ID": "9",
+                    "typeID": "TextInput",
+                    "zOrder": "9",
+                    "w": "259",
+                    "measuredW": "192",
+                    "measuredH": "32",
+                    "x": "78",
+                    "y": "124",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "Basic Terminal Usage"
+                    }
+                },
+                {
+                    "ID": "10",
+                    "typeID": "Label",
+                    "zOrder": "10",
+                    "measuredW": "67",
+                    "measuredH": "25",
+                    "x": "967",
+                    "y": "41",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "Legends"
+                    }
+                },
+                {
+                    "ID": "11",
+                    "typeID": "TextInput",
+                    "zOrder": "11",
+                    "w": "240",
+                    "measuredW": "239",
+                    "measuredH": "32",
+                    "x": "967",
+                    "y": "78",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Personal Recommendation!"
+                    }
+                },
+                {
+                    "ID": "12",
+                    "typeID": "TextInput",
+                    "zOrder": "12",
+                    "w": "240",
+                    "measuredW": "109",
+                    "measuredH": "32",
+                    "x": "967",
+                    "y": "114",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "Possibilities"
+                    }
+                },
+                {
+                    "ID": "13",
+                    "typeID": "TextInput",
+                    "zOrder": "13",
+                    "w": "240",
+                    "measuredW": "86",
+                    "measuredH": "32",
+                    "x": "967",
+                    "y": "150",
+                    "properties": {
+                        "align": "center",
+                        "color": "16770457",
+                        "size": "18",
+                        "text": "Pick any!"
+                    }
+                },
+                {
+                    "ID": "14",
+                    "typeID": "Arrow",
+                    "zOrder": "14",
+                    "w": "1",
+                    "h": "47",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "625",
+                    "y": "135",
+                    "properties": {
+                        "color": "6710886",
+                        "curvature": "0",
+                        "direction": "top",
+                        "leftArrow": "false",
+                        "p0": {
+                            "length": 0,
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "length": 0.5,
+                            "x": 0.5,
+                            "y": 0
+                        },
+                        "p2": {
+                            "length": 46,
+                            "x": 0,
+                            "y": 46
+                        },
+                        "rightArrow": "false",
+                        "shape": "bezier"
+                    }
+                },
+                {
+                    "ID": "15",
+                    "typeID": "TextInput",
+                    "zOrder": "15",
+                    "w": "121",
+                    "measuredW": "43",
+                    "measuredH": "32",
+                    "x": "610",
+                    "y": "368",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "iOS"
+                    }
+                },
+                {
+                    "ID": "16",
+                    "typeID": "Arrow",
+                    "zOrder": "16",
+                    "w": "1",
+                    "h": "70",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "470",
+                    "y": "407",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "0",
+                        "direction": "top",
+                        "leftArrow": "false",
+                        "p0": {
+                            "length": 0,
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "length": 0.5621697290198284,
+                            "x": 0.5621504039776257,
+                            "y": 0.004661280298321849
+                        },
+                        "p2": {
+                            "length": 69,
+                            "x": 0,
+                            "y": 69
+                        },
+                        "rightArrow": "false",
+                        "shape": "bezier",
+                        "stroke": "dotted"
+                    }
+                },
+                {
+                    "ID": "17",
+                    "typeID": "TextInput",
+                    "zOrder": "17",
+                    "w": "112",
+                    "measuredW": "67",
+                    "measuredH": "32",
+                    "x": "877",
+                    "y": "361",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "Hybrid"
+                    }
+                },
+                {
+                    "ID": "18",
+                    "typeID": "Arrow",
+                    "zOrder": "18",
+                    "w": "1",
+                    "h": "70",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "660",
+                    "y": "410",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "1",
+                        "direction": "top",
+                        "leftArrow": "false",
+                        "p0": {
+                            "length": 0,
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "length": 0.46105410579324535,
+                            "x": 0.4608695652173913,
+                            "y": 0.01304347826086956
+                        },
+                        "p2": {
+                            "length": 69,
+                            "x": 0,
+                            "y": 69
+                        },
+                        "rightArrow": "false",
+                        "shape": "bezier",
+                        "stroke": "dotted"
+                    }
+                },
+                {
+                    "ID": "19",
+                    "typeID": "Arrow",
+                    "zOrder": "19",
+                    "w": "1",
+                    "h": "77",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "928",
+                    "y": "403",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "1",
+                        "direction": "top",
+                        "leftArrow": "false",
+                        "p0": {
+                            "length": 0,
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "length": 0.4539180376844135,
+                            "x": 0.4537465672812867,
+                            "y": 0.01247548058061985
+                        },
+                        "p2": {
+                            "length": 76,
+                            "x": 0,
+                            "y": 76
+                        },
+                        "rightArrow": "false",
+                        "shape": "bezier",
+                        "stroke": "dotted"
+                    }
+                },
+                {
+                    "ID": "20",
+                    "typeID": "TextInput",
+                    "zOrder": "20",
+                    "w": "258",
+                    "measuredW": "166",
+                    "measuredH": "32",
+                    "x": "78",
+                    "y": "270",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "Learn to Research"
+                    }
+                },
+                {
+                    "ID": "21",
+                    "typeID": "TextArea",
+                    "zOrder": "21",
+                    "w": "258",
+                    "h": "121",
+                    "measuredW": "200",
+                    "measuredH": "140",
+                    "x": "79",
+                    "y": "366",
+                    "properties": {
+                        "color": "15658734",
+                        "text": " \nCreate your profile. Explore the relevant opensource projects. Make it your habit to look under the hood for the projects you like. Create and contribute to opensource projects."
+                    }
+                },
+                {
+                    "ID": "22",
+                    "typeID": "TextInput",
+                    "zOrder": "22",
+                    "w": "258",
+                    "measuredW": "68",
+                    "measuredH": "32",
+                    "x": "79",
+                    "y": "341",
+                    "properties": {
+                        "align": "center",
+                        "borderStyle": "rectangle",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "Github"
+                    }
+                },
+                {
+                    "ID": "23",
+                    "typeID": "TextInput",
+                    "zOrder": "23",
+                    "w": "258",
+                    "measuredW": "242",
+                    "measuredH": "32",
+                    "x": "78",
+                    "y": "87",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "Datastructures & Algorithms"
+                    }
+                },
+                {
+                    "ID": "24",
+                    "typeID": "TextInput",
+                    "zOrder": "24",
+                    "w": "258",
+                    "measuredW": "187",
+                    "measuredH": "32",
+                    "x": "79",
+                    "y": "305",
+                    "properties": {
+                        "align": "center",
+                        "color": "16767334",
+                        "size": "18",
+                        "text": "Character Encodings"
+                    }
+                },
+                {
+                    "ID": "25",
+                    "typeID": "Arrow",
+                    "zOrder": "25",
+                    "w": "181",
+                    "h": "137",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "746",
+                    "y": "221",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "1",
+                        "direction": "top",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 1
+                        },
+                        "p1": {
+                            "x": 0.4809160305343512,
+                            "y": 0.198473282442748
+                        },
+                        "p2": {
+                            "x": 180,
+                            "y": 136
+                        },
+                        "shape": "bezier"
+                    }
+                },
+                {
+                    "ID": "26",
+                    "typeID": "Label",
+                    "zOrder": "26",
+                    "measuredW": "113",
+                    "measuredH": "28",
+                    "x": "418",
+                    "y": "475",
+                    "properties": {
+                        "bold": "true",
+                        "size": "20",
+                        "text": "not included"
+                    }
+                },
+                {
+                    "ID": "27",
+                    "typeID": "Label",
+                    "zOrder": "27",
+                    "measuredW": "113",
+                    "measuredH": "28",
+                    "x": "877",
+                    "y": "475",
+                    "properties": {
+                        "bold": "true",
+                        "size": "20",
+                        "text": "not included"
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "New Wireframe 3",
+            "order": 1000004.9384327736,
+            "parentID": null,
+            "notes": null
+        },
+        "branchID": "Master",
+        "resourceID": "999E3772-AE1B-49E0-9A1D-F84E2B32BDD7",
+        "mockupH": "462",
+        "mockupW": "1129",
+        "measuredW": "1207",
+        "measuredH": "503",
+        "version": "1.0"
+    }
+}
